@@ -1,4 +1,6 @@
-### Olá, eu sou o Kelvin da Silva. Nas redes sou conhecido como CheloKing. 🙋🏻‍♂️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+user.;Welcome+to+my+github+profile!;I'm+known+as+CheloKing%2C+but+you+can+call+me+Kelvin.)](https://git.io/typing-svg)
+
+
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)](https://discord.com/users/512766721506148352)
 [![Instagram](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/EasyVolume3171)
