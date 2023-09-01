@@ -3,7 +3,6 @@
 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)](https://discord.com/users/512766721506148352)
-[![Instagram](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/EasyVolume3171)
 
 
 ![Kelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=chelo-1&show_icons=true&theme=dark)
